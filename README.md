@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKIN</h1>
 <h3 align="center">A passionate PYTHON developer from TURKEY</h3>
 
-- 🌱 I’m currently learning **.Net Core MVC**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [github.com/akinyolci](github.com/akinyolci)
 
