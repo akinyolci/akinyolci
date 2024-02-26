@@ -4,9 +4,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/akinyolci](github.com/akinyolci)
 
-- 📝 I regularly write articles on [akinyolci.com](akinyolci.com)
+- 📝 I regularly explain my projects on [akinyolci.com](akinyolci.com)
 
-- 💬 Ask me about **Python, Algorithms, Data Structures, Selenium, Numpy, OOP**
+- 💬 Ask me about **Python, Backend,Django, Selenium, Numpy, NodeJS,AWS,MongoDB**
 
 - 📫 How to reach me **yolci.akin@gmail.com**
 
