@@ -6,7 +6,7 @@
 
 - 📝 I regularly explain my projects on [akinyolci.com](akinyolci.com)
 
-- 💬 Ask me about **Python, Backend,Django, Selenium, Numpy, NodeJS,AWS,MongoDB**
+- 💬 Ask me about **Python, Backend, AI, Data, Prompt Engineering, AWS, NodeJS**
 
 - 📫 How to reach me **yolci.akin@gmail.com**
 
