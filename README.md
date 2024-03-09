@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yolci.akin@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/akınyolci](linkedin.com/in/akınyolci)
+- 📄 Know about my experiences [linkedin.com/in/akınyolci](linkedin.com/in/akinyolci)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
